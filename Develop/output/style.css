@@ -1,0 +1,19 @@
+.employee-card {
+    padding: 2rem;
+}
+.card {
+    padding: 2rem;
+    background-color: #EFEFEF;
+}
+.jumbotron {
+    background-color: #FF3B3F;
+}
+.jumbotron h1 {
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    -webkit-font-smooth: antialiased;
+}
+body {
+    background-color: #CAEBF2;
+}
